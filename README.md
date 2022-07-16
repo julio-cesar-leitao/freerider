@@ -1,5 +1,7 @@
 # Tutorial de instalação das pistas do FPV FreeRider Recharged
 
+![Farmers Market Finder Demo](https://github.com/julio-cesar-leitao/Fotos/demo1.gif)
+
 Esse tutorial serve para ajudar na instalação de novas pistas baixadas da internet no simulador FPV FreeRider Recharged (não é possível na versão antiga do FreeRider).
 
 # Preparação:
