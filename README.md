@@ -40,7 +40,7 @@ Para instalar as pistas basta depositá-las no diretório correto, abaixo será 
 Após instaladas, basta seguir a partir do item 5 de "Instalação" para iniciar o mapa.
 
 # Manutenção
-Caso façam um mapa novo ou modificação nos disponíveis aqui podem entrar em contato com cesar.jcla@gmail.com para eu adicionar no repositório.
+Caso façam um mapa novo ou modificação nos disponíveis aqui podem entrar em contato [comigo](https://www.instagram.com/fpv_cesar/) para eu adicionar no repositório.
 
 ## License
 [MIT](https://choosealicense.com/licenses/mit/)
